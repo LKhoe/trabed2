@@ -1,8 +1,7 @@
 # trabed2
 
-Baixar
+Setup: git clone URL_TO_CLONE
 
+Baixar: git pull
 
-Enviar
-git commit -am "..."
-git push
+Enviar: git commit -am "..." ////  git push
