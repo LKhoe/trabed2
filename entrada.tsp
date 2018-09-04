@@ -1,0 +1,16 @@
+NAME: entrada10
+COMMENT: 52 locations in Berlin (Groetschel)
+TYPE: TSP
+DIMENSION: 10
+EDGE_WEIGHT_TYPE: EUC_2D
+NODE_COORD_SECTION
+1 14.0 12.0
+2 0.0 0.0
+3 1.0 1.0
+4 3.0 4.0
+5 6.0 8.0
+6 12.0 0.0
+7 12.0 12.0
+8 7.0 7.0
+9 8.0 8.0
+10 9.0 9.0
